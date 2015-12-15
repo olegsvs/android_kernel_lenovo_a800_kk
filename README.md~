@@ -1,0 +1,5 @@
+export CROSS_COMPILE=/home/olegsvs/arm-linux-androideabi-4.7/bin/arm-linux-androideabi-
+./mk a800_kitkat n k
+=========
+not working:
+speaker , battery fuel gauge , camera lens , alsps , get calibration bma222eauto .
